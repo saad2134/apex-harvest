@@ -190,7 +190,7 @@ By combining **machine learning regression models** with soil, weather, and crop
 ---
 
 ## ✍️ Endnote
-<p align="center">Developed with 💖 for the Smart India Hackathon 2025, with heartfelt thanks to SIH for the opportunity to build and innovate.</p>
+<p align="center">Developed with 💖 for the Hack Revolution Hackathon 2025, with heartfelt thanks to Muffakham Jah College & ACES for the opportunity to build and innovate.</p>
 
 ---
 
