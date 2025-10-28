@@ -2,6 +2,18 @@
 
 > 🚨 "Design and development of an AI-Powered Crop Yield Prediction and Optimization Application"
 
+<div align="center">
+
+ <!--
+ <a href="https://shiksha-disha.vercel.app/" target="_blank">
+    <img  style="width:350px;" src="https://img.shields.io/badge/🚀_Access_the_Prototype_Here-Live-brightgreen?style=for-the-badge&labelColor=E1E277" alt="Access the Prototype Here"  />
+ </a>
+ -->
+
+![Phase](https://img.shields.io/badge/🛠️%20Phase-In%20Development-blue?style=for-the-badge)
+![Platforms](https://img.shields.io/badge/🌐%20Platforms-Web%20%7C%20Android*-28a745?style=for-the-badge)
+
+</div>
 
 ## 🔵 Context: Prototype for Hack Revolution Hackathon 2025 
 
@@ -150,10 +162,11 @@ By combining **machine learning regression models** with soil, weather, and crop
 ## 📱 Screenshots *
 * Soon.
 
-## 📊 **Project Stats**
+## 📊 **Repo Stats**
 
 <div align="center">
-  
+
+<!-- GitHub Stats -->
 ![Repo Size](https://img.shields.io/github/repo-size/saad2134/apex-harvest)
 ![Last Commit](https://img.shields.io/github/last-commit/saad2134/apex-harvest)
 ![Open Issues](https://img.shields.io/github/issues/saad2134/apex-harvest)
@@ -167,6 +180,7 @@ By combining **machine learning regression models** with soil, weather, and crop
 ![Top Language](https://img.shields.io/github/languages/top/saad2134/apex-harvest)
 
 </div>
+
 
 ## ⭐ Star History
 
