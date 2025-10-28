@@ -15,7 +15,9 @@
 
 </div>
 
-## 🔵 Context: Prototype for Hack Revolution Hackathon 2025 
+## 🔵 Context
+
+### Prototype for Hack Revolution Hackathon 2025 
 
 - **Problem Statement Track:** Agriculture and FoodTech  
 - **Problem Statement Title:** AI-Powered Crop Yield Prediction and Optimization
